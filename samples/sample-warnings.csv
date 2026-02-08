@@ -1,0 +1,5 @@
+txn_date,description,amount,counterparty,balance_end
+2025-06-01,Venta online,1200.50,Cliente X,1200.50
+2025-06-xx,Fecha invalida,200.00,Cliente W,1400.50
+2025-06-05,Monto invalido,ABC,Proveedor X,1400.50
+2025-06-10,Compra suministros,-300.20,Proveedor Y,1100.30

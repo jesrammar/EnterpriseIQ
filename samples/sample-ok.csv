@@ -1,0 +1,4 @@
+txn_date,description,amount,counterparty,balance_end,extra_col
+2025-06-01,Venta online,1200.50,Cliente X,1200.50,foo
+2025-06-02,Compra suministros,-300.20,Proveedor Y,900.30,bar
+2025-06-15,Servicio consultoria,800.00,Cliente Z,1700.30,baz
